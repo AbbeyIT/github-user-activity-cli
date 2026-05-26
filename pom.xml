@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>github-user-activity</artifactId>
-	<version>1.0.1</version>
+	<version>2.0.0</version>
 	<name>github-user-activity</name>
 	<description>Demo project for github-user-activity-cli</description>
 	<url/>
