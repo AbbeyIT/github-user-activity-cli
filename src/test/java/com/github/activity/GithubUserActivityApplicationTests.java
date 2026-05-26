@@ -1,4 +1,4 @@
-package com.example.github_user_activity;
+package com.github.activity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
